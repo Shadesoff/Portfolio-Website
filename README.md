@@ -44,10 +44,14 @@ Optional future expansion: blog or testimonials section.
 
 **Sitemap**
 <br>
-*Nav
+Nav
 <br>
-*Hero
-*Project|Experiments
-*About
-*Contact
-*footer
+Hero
+<br>
+Project|Experiments
+<br>
+About
+<br>
+Contact
+<br>
+footer
